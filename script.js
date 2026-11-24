@@ -69,7 +69,7 @@ function calculate() {
     if (operator === null || previousInput === "") return;
 
     const previous = Number(previousInput);
-    const current = Number(currentInpt);
+    const current = Number(currentInput);
 
     let result;
 
